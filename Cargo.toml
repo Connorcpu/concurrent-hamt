@@ -6,3 +6,6 @@ authors = ["Brandon Allard <ballard2626@gmail.com>"]
 [lib]
 name = "hamt"
 path = "src/lib.rs"
+
+[dependencies]
+rand = "0.3"
